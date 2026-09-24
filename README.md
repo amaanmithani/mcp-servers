@@ -225,7 +225,7 @@ Tests (167 total):
   JavaScript.
 - sqlite queries are serialised through a single worker per server process. That is fine for a
   single-user desktop client, but not built for high concurrency.
-- Coverage (v8, about 95% of statements) excludes the three `index.ts` entrypoints,
+- Coverage (v8, 94% of statements, 89% of branches) excludes the three `index.ts` entrypoints,
   `lib/run.ts` and the sqlite `worker.ts` shell. They run in child processes and worker threads
   that in-process v8 coverage cannot see. They are exercised by the stdio integration tests
   instead.
