@@ -1,0 +1,52 @@
+{
+  "generatedAt": "2026-09-24T03:45:09.628Z",
+  "method": "Sequential client.callTool() round trips over stdio against the built servers (dist/). Timer wraps the full request/response including JSON-RPC serialisation and schema validation.",
+  "environment": {
+    "node": "v25.9.0",
+    "platform": "darwin 25.6.0",
+    "cpu": "Apple M1 Pro",
+    "cpuCount": 8,
+    "loadAverage1m": 25.901
+  },
+  "headline": {
+    "metric": "sqlite-readonly query p50 round-trip latency over stdio",
+    "value_ms": 0.308,
+    "p99_ms": 1.568,
+    "calls": 2000
+  },
+  "results": [
+    {
+      "label": "sqlite-readonly query (point lookup by primary key, 1 row)",
+      "calls": 2000,
+      "warmup": 200,
+      "errors": 0,
+      "p50_ms": 0.308,
+      "p90_ms": 0.552,
+      "p99_ms": 1.568,
+      "max_ms": 9.37,
+      "mean_ms": 0.386
+    },
+    {
+      "label": "sqlite-readonly list_tables",
+      "calls": 2000,
+      "warmup": 200,
+      "errors": 0,
+      "p50_ms": 0.339,
+      "p90_ms": 1.653,
+      "p99_ms": 11.197,
+      "max_ms": 54.307,
+      "mean_ms": 0.949
+    },
+    {
+      "label": "fs-sandbox read_file (3.6 KB file)",
+      "calls": 2000,
+      "warmup": 200,
+      "errors": 0,
+      "p50_ms": 0.417,
+      "p90_ms": 0.632,
+      "p99_ms": 1.173,
+      "max_ms": 2.475,
+      "mean_ms": 0.463
+    }
+  ]
+}
