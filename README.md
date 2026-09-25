@@ -1,5 +1,7 @@
 # mcp-servers
 
+> **Credits.** Built by Amaan Mithani with Claude (Anthropic) as the AI coding assistant.
+
 Three small, read-only [Model Context Protocol](https://modelcontextprotocol.io) servers in
 TypeScript, built on the official `@modelcontextprotocol/sdk` (v1.30). Each one gives an LLM
 access to a resource that is dangerous to expose naively, and each is built around a guard
