@@ -25,6 +25,16 @@ an Apple M1 Pro with Node v25.9.0. The raw output is in
 [`results/bench.json`](results/bench.json). The machine was busy during the run (1-minute load
 average about 26), so treat these as upper bounds.
 
+## See it running
+
+![An MCP client calling all three servers: normal calls succeed, attack inputs come back as FORBIDDEN or TIMEOUT errors](docs/img/mcp-client-session.svg)
+
+Local run, 2026-09-26: a throwaway client script using the SDK's `Client` and
+`StdioClientTransport` spawned each built server (`dist/servers/*/index.js`) and called its
+tools. The SQLite server used the committed `data/sample.db`, `fs-sandbox` had `FS_ROOT=src`,
+and `http-fetch` fetched the live `https://example.com/`. Output is as printed; long results
+are cut with `…`.
+
 ## Why these guards matter
 
 An MCP server acts with the user's permissions, but its arguments come from a model, and a

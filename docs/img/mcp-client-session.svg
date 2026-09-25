@@ -1,0 +1,199 @@
+<svg class="rich-terminal" viewBox="0 0 1604 904.0" xmlns="http://www.w3.org/2000/svg">
+    <!-- Generated with Rich https://www.textualize.io -->
+    <style>
+
+    @font-face {
+        font-family: "Fira Code";
+        src: local("FiraCode-Regular"),
+                url("https://cdnjs.cloudflare.com/ajax/libs/firacode/6.2.0/woff2/FiraCode-Regular.woff2") format("woff2"),
+                url("https://cdnjs.cloudflare.com/ajax/libs/firacode/6.2.0/woff/FiraCode-Regular.woff") format("woff");
+        font-style: normal;
+        font-weight: 400;
+    }
+    @font-face {
+        font-family: "Fira Code";
+        src: local("FiraCode-Bold"),
+                url("https://cdnjs.cloudflare.com/ajax/libs/firacode/6.2.0/woff2/FiraCode-Bold.woff2") format("woff2"),
+                url("https://cdnjs.cloudflare.com/ajax/libs/firacode/6.2.0/woff/FiraCode-Bold.woff") format("woff");
+        font-style: bold;
+        font-weight: 700;
+    }
+
+    .terminal-488239379-matrix {
+        font-family: Fira Code, monospace;
+        font-size: 20px;
+        line-height: 24.4px;
+        font-variant-east-asian: full-width;
+    }
+
+    .terminal-488239379-title {
+        font-size: 18px;
+        font-weight: bold;
+        font-family: arial;
+    }
+
+    .terminal-488239379-r1 { fill: #c5c8c6;font-weight: bold }
+.terminal-488239379-r2 { fill: #c5c8c6 }
+.terminal-488239379-r3 { fill: #868887 }
+.terminal-488239379-r4 { fill: #98a84b;font-weight: bold }
+.terminal-488239379-r5 { fill: #68a0b3 }
+.terminal-488239379-r6 { fill: #cc555a }
+    </style>
+
+    <defs>
+    <clipPath id="terminal-488239379-clip-terminal">
+      <rect x="0" y="0" width="1585.0" height="853.0" />
+    </clipPath>
+    <clipPath id="terminal-488239379-line-0">
+    <rect x="0" y="1.5" width="1586" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-488239379-line-1">
+    <rect x="0" y="25.9" width="1586" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-488239379-line-2">
+    <rect x="0" y="50.3" width="1586" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-488239379-line-3">
+    <rect x="0" y="74.7" width="1586" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-488239379-line-4">
+    <rect x="0" y="99.1" width="1586" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-488239379-line-5">
+    <rect x="0" y="123.5" width="1586" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-488239379-line-6">
+    <rect x="0" y="147.9" width="1586" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-488239379-line-7">
+    <rect x="0" y="172.3" width="1586" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-488239379-line-8">
+    <rect x="0" y="196.7" width="1586" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-488239379-line-9">
+    <rect x="0" y="221.1" width="1586" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-488239379-line-10">
+    <rect x="0" y="245.5" width="1586" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-488239379-line-11">
+    <rect x="0" y="269.9" width="1586" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-488239379-line-12">
+    <rect x="0" y="294.3" width="1586" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-488239379-line-13">
+    <rect x="0" y="318.7" width="1586" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-488239379-line-14">
+    <rect x="0" y="343.1" width="1586" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-488239379-line-15">
+    <rect x="0" y="367.5" width="1586" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-488239379-line-16">
+    <rect x="0" y="391.9" width="1586" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-488239379-line-17">
+    <rect x="0" y="416.3" width="1586" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-488239379-line-18">
+    <rect x="0" y="440.7" width="1586" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-488239379-line-19">
+    <rect x="0" y="465.1" width="1586" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-488239379-line-20">
+    <rect x="0" y="489.5" width="1586" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-488239379-line-21">
+    <rect x="0" y="513.9" width="1586" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-488239379-line-22">
+    <rect x="0" y="538.3" width="1586" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-488239379-line-23">
+    <rect x="0" y="562.7" width="1586" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-488239379-line-24">
+    <rect x="0" y="587.1" width="1586" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-488239379-line-25">
+    <rect x="0" y="611.5" width="1586" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-488239379-line-26">
+    <rect x="0" y="635.9" width="1586" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-488239379-line-27">
+    <rect x="0" y="660.3" width="1586" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-488239379-line-28">
+    <rect x="0" y="684.7" width="1586" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-488239379-line-29">
+    <rect x="0" y="709.1" width="1586" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-488239379-line-30">
+    <rect x="0" y="733.5" width="1586" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-488239379-line-31">
+    <rect x="0" y="757.9" width="1586" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-488239379-line-32">
+    <rect x="0" y="782.3" width="1586" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-488239379-line-33">
+    <rect x="0" y="806.7" width="1586" height="24.65"/>
+            </clipPath>
+    </defs>
+
+    <rect fill="#292929" stroke="rgba(255,255,255,0.35)" stroke-width="1" x="1" y="1" width="1602" height="902" rx="8"/><text class="terminal-488239379-title" fill="#c5c8c6" text-anchor="middle" x="801" y="27">MCP&#160;client&#160;(@modelcontextprotocol/sdk)&#160;calling&#160;the&#160;three&#160;built&#160;servers&#160;over&#160;stdio</text>
+            <g transform="translate(26,22)">
+            <circle cx="0" cy="0" r="7" fill="#ff5f57"/>
+            <circle cx="22" cy="0" r="7" fill="#febc2e"/>
+            <circle cx="44" cy="0" r="7" fill="#28c840"/>
+            </g>
+        
+    <g transform="translate(9, 41)" clip-path="url(#terminal-488239379-clip-terminal)">
+    
+    <g class="terminal-488239379-matrix">
+    <text class="terminal-488239379-r1" x="0" y="20" textLength="183" clip-path="url(#terminal-488239379-line-0)">sqlite-readonly</text><text class="terminal-488239379-r3" x="195.2" y="20" textLength="512.4" clip-path="url(#terminal-488239379-line-0)">(stdio:&#160;node&#160;dist/servers/sqlite/index.js)</text><text class="terminal-488239379-r2" x="707.6" y="20" textLength="524.6" clip-path="url(#terminal-488239379-line-0)">&#160;&#160;tools:&#160;list_tables,&#160;describe_table,&#160;query</text><text class="terminal-488239379-r2" x="1586" y="20" textLength="12.2" clip-path="url(#terminal-488239379-line-0)">
+</text><text class="terminal-488239379-r4" x="0" y="44.4" textLength="158.6" clip-path="url(#terminal-488239379-line-1)">→&#160;list_tables</text><text class="terminal-488239379-r2" x="158.6" y="44.4" textLength="48.8" clip-path="url(#terminal-488239379-line-1)">&#160;{}&#160;</text><text class="terminal-488239379-r3" x="207.4" y="44.4" textLength="97.6" clip-path="url(#terminal-488239379-line-1)">336.4&#160;ms</text><text class="terminal-488239379-r2" x="1586" y="44.4" textLength="12.2" clip-path="url(#terminal-488239379-line-1)">
+</text><text class="terminal-488239379-r5" x="24.4" y="68.8" textLength="1561.6" clip-path="url(#terminal-488239379-line-2)">{&quot;tables&quot;:[{&quot;name&quot;:&quot;customers&quot;,&quot;type&quot;:&quot;table&quot;},{&quot;name&quot;:&quot;order_items&quot;,&quot;type&quot;:&quot;table&quot;},{&quot;name&quot;:&quot;order_totals&quot;,&quot;type&quot;:&quot;view&quot;},{&quot;nam</text><text class="terminal-488239379-r2" x="1586" y="68.8" textLength="12.2" clip-path="url(#terminal-488239379-line-2)">
+</text><text class="terminal-488239379-r5" x="0" y="93.2" textLength="780.8" clip-path="url(#terminal-488239379-line-3)">e&quot;:&quot;orders&quot;,&quot;type&quot;:&quot;table&quot;},{&quot;name&quot;:&quot;products&quot;,&quot;type&quot;:&quot;table&quot;}]}</text><text class="terminal-488239379-r2" x="1586" y="93.2" textLength="12.2" clip-path="url(#terminal-488239379-line-3)">
+</text><text class="terminal-488239379-r4" x="0" y="117.6" textLength="85.4" clip-path="url(#terminal-488239379-line-4)">→&#160;query</text><text class="terminal-488239379-r2" x="85.4" y="117.6" textLength="1390.8" clip-path="url(#terminal-488239379-line-4)">&#160;{&quot;sql&quot;:&quot;SELECT&#160;category,&#160;count(*)&#160;AS&#160;n,&#160;min(price_cents)&#160;AS&#160;min_cents&#160;FROM&#160;products&#160;GROUP&#160;BY&#160;category&#160;ORDER&#160;BY&#160;n&#160;</text><text class="terminal-488239379-r2" x="1586" y="117.6" textLength="12.2" clip-path="url(#terminal-488239379-line-4)">
+</text><text class="terminal-488239379-r2" x="0" y="142" textLength="207.4" clip-path="url(#terminal-488239379-line-5)">DESC&quot;,&quot;limit&quot;:3}&#160;</text><text class="terminal-488239379-r3" x="207.4" y="142" textLength="97.6" clip-path="url(#terminal-488239379-line-5)">836.7&#160;ms</text><text class="terminal-488239379-r2" x="1586" y="142" textLength="12.2" clip-path="url(#terminal-488239379-line-5)">
+</text><text class="terminal-488239379-r5" x="24.4" y="166.4" textLength="1561.6" clip-path="url(#terminal-488239379-line-6)">{&quot;columns&quot;:[&quot;category&quot;,&quot;n&quot;,&quot;min_cents&quot;],&quot;rows&quot;:[[&quot;toys&quot;,13,999],[&quot;garden&quot;,13,1099],[&quot;stationery&quot;,11,999]],&quot;rowCount&quot;:3,&quot;truncate</text><text class="terminal-488239379-r2" x="1586" y="166.4" textLength="12.2" clip-path="url(#terminal-488239379-line-6)">
+</text><text class="terminal-488239379-r5" x="0" y="190.8" textLength="97.6" clip-path="url(#terminal-488239379-line-7)">d&quot;:true}</text><text class="terminal-488239379-r2" x="1586" y="190.8" textLength="12.2" clip-path="url(#terminal-488239379-line-7)">
+</text><text class="terminal-488239379-r4" x="0" y="215.2" textLength="85.4" clip-path="url(#terminal-488239379-line-8)">→&#160;query</text><text class="terminal-488239379-r2" x="85.4" y="215.2" textLength="475.8" clip-path="url(#terminal-488239379-line-8)">&#160;{&quot;sql&quot;:&quot;SELECT&#160;1;&#160;DROP&#160;TABLE&#160;orders&quot;}&#160;</text><text class="terminal-488239379-r3" x="561.2" y="215.2" textLength="85.4" clip-path="url(#terminal-488239379-line-8)">33.5&#160;ms</text><text class="terminal-488239379-r2" x="1586" y="215.2" textLength="12.2" clip-path="url(#terminal-488239379-line-8)">
+</text><text class="terminal-488239379-r6" x="24.4" y="239.6" textLength="1049.2" clip-path="url(#terminal-488239379-line-9)">isError&#160;{&quot;error&quot;:{&quot;code&quot;:&quot;FORBIDDEN&quot;,&quot;message&quot;:&quot;Multiple&#160;statements&#160;are&#160;not&#160;allowed&quot;}}</text><text class="terminal-488239379-r2" x="1586" y="239.6" textLength="12.2" clip-path="url(#terminal-488239379-line-9)">
+</text><text class="terminal-488239379-r4" x="0" y="264" textLength="85.4" clip-path="url(#terminal-488239379-line-10)">→&#160;query</text><text class="terminal-488239379-r2" x="85.4" y="264" textLength="622.2" clip-path="url(#terminal-488239379-line-10)">&#160;{&quot;sql&quot;:&quot;WITH&#160;x&#160;AS&#160;(SELECT&#160;1)&#160;DELETE&#160;FROM&#160;orders&quot;}&#160;</text><text class="terminal-488239379-r3" x="707.6" y="264" textLength="73.2" clip-path="url(#terminal-488239379-line-10)">5.3&#160;ms</text><text class="terminal-488239379-r2" x="1586" y="264" textLength="12.2" clip-path="url(#terminal-488239379-line-10)">
+</text><text class="terminal-488239379-r6" x="24.4" y="288.4" textLength="939.4" clip-path="url(#terminal-488239379-line-11)">isError&#160;{&quot;error&quot;:{&quot;code&quot;:&quot;FORBIDDEN&quot;,&quot;message&quot;:&quot;Statement&#160;is&#160;not&#160;read-only&quot;}}</text><text class="terminal-488239379-r2" x="1586" y="288.4" textLength="12.2" clip-path="url(#terminal-488239379-line-11)">
+</text><text class="terminal-488239379-r4" x="0" y="312.8" textLength="85.4" clip-path="url(#terminal-488239379-line-12)">→&#160;query</text><text class="terminal-488239379-r2" x="85.4" y="312.8" textLength="1171.2" clip-path="url(#terminal-488239379-line-12)">&#160;{&quot;sql&quot;:&quot;WITH&#160;RECURSIVE&#160;c(x)&#160;AS&#160;(SELECT&#160;1&#160;UNION&#160;ALL&#160;SELECT&#160;x+1&#160;FROM&#160;c)&#160;SELECT&#160;count(*)&#160;FROM&#160;c&quot;}&#160;</text><text class="terminal-488239379-r3" x="1256.6" y="312.8" textLength="109.8" clip-path="url(#terminal-488239379-line-12)">2058.4&#160;ms</text><text class="terminal-488239379-r2" x="1586" y="312.8" textLength="12.2" clip-path="url(#terminal-488239379-line-12)">
+</text><text class="terminal-488239379-r6" x="24.4" y="337.2" textLength="1085.8" clip-path="url(#terminal-488239379-line-13)">isError&#160;{&quot;error&quot;:{&quot;code&quot;:&quot;TIMEOUT&quot;,&quot;message&quot;:&quot;Query&#160;exceeded&#160;2000&#160;ms&#160;and&#160;was&#160;cancelled&quot;}}</text><text class="terminal-488239379-r2" x="1586" y="337.2" textLength="12.2" clip-path="url(#terminal-488239379-line-13)">
+</text><text class="terminal-488239379-r2" x="1586" y="361.6" textLength="12.2" clip-path="url(#terminal-488239379-line-14)">
+</text><text class="terminal-488239379-r1" x="0" y="386" textLength="122" clip-path="url(#terminal-488239379-line-15)">fs-sandbox</text><text class="terminal-488239379-r3" x="134.2" y="386" textLength="463.6" clip-path="url(#terminal-488239379-line-15)">(stdio:&#160;node&#160;dist/servers/fs/index.js)</text><text class="terminal-488239379-r2" x="597.8" y="386" textLength="439.2" clip-path="url(#terminal-488239379-line-15)">&#160;&#160;tools:&#160;list_dir,&#160;read_file,&#160;search</text><text class="terminal-488239379-r2" x="1586" y="386" textLength="12.2" clip-path="url(#terminal-488239379-line-15)">
+</text><text class="terminal-488239379-r4" x="0" y="410.4" textLength="122" clip-path="url(#terminal-488239379-line-16)">→&#160;list_dir</text><text class="terminal-488239379-r2" x="122" y="410.4" textLength="170.8" clip-path="url(#terminal-488239379-line-16)">&#160;{&quot;path&quot;:&quot;.&quot;}&#160;</text><text class="terminal-488239379-r3" x="292.8" y="410.4" textLength="85.4" clip-path="url(#terminal-488239379-line-16)">89.1&#160;ms</text><text class="terminal-488239379-r2" x="1586" y="410.4" textLength="12.2" clip-path="url(#terminal-488239379-line-16)">
+</text><text class="terminal-488239379-r5" x="24.4" y="434.8" textLength="1561.6" clip-path="url(#terminal-488239379-line-17)">{&quot;path&quot;:&quot;.&quot;,&quot;entries&quot;:[{&quot;name&quot;:&quot;lib&quot;,&quot;type&quot;:&quot;directory&quot;,&quot;size&quot;:0},{&quot;name&quot;:&quot;servers&quot;,&quot;type&quot;:&quot;directory&quot;,&quot;size&quot;:0}],&quot;truncated&quot;:fa</text><text class="terminal-488239379-r2" x="1586" y="434.8" textLength="12.2" clip-path="url(#terminal-488239379-line-17)">
+</text><text class="terminal-488239379-r5" x="0" y="459.2" textLength="48.8" clip-path="url(#terminal-488239379-line-18)">lse}</text><text class="terminal-488239379-r2" x="1586" y="459.2" textLength="12.2" clip-path="url(#terminal-488239379-line-18)">
+</text><text class="terminal-488239379-r4" x="0" y="483.6" textLength="134.2" clip-path="url(#terminal-488239379-line-19)">→&#160;read_file</text><text class="terminal-488239379-r2" x="134.2" y="483.6" textLength="341.6" clip-path="url(#terminal-488239379-line-19)">&#160;{&quot;path&quot;:&quot;../package.json&quot;}&#160;</text><text class="terminal-488239379-r3" x="475.8" y="483.6" textLength="85.4" clip-path="url(#terminal-488239379-line-19)">12.1&#160;ms</text><text class="terminal-488239379-r2" x="1586" y="483.6" textLength="12.2" clip-path="url(#terminal-488239379-line-19)">
+</text><text class="terminal-488239379-r6" x="24.4" y="508" textLength="976" clip-path="url(#terminal-488239379-line-20)">isError&#160;{&quot;error&quot;:{&quot;code&quot;:&quot;FORBIDDEN&quot;,&quot;message&quot;:&quot;Path&#160;escapes&#160;the&#160;sandbox&#160;root&quot;}}</text><text class="terminal-488239379-r2" x="1586" y="508" textLength="12.2" clip-path="url(#terminal-488239379-line-20)">
+</text><text class="terminal-488239379-r4" x="0" y="532.4" textLength="97.6" clip-path="url(#terminal-488239379-line-21)">→&#160;search</text><text class="terminal-488239379-r2" x="97.6" y="532.4" textLength="317.2" clip-path="url(#terminal-488239379-line-21)">&#160;{&quot;pattern&quot;:&quot;O_NOFOLLOW&quot;}&#160;</text><text class="terminal-488239379-r3" x="414.8" y="532.4" textLength="97.6" clip-path="url(#terminal-488239379-line-21)">780.6&#160;ms</text><text class="terminal-488239379-r2" x="1586" y="532.4" textLength="12.2" clip-path="url(#terminal-488239379-line-21)">
+</text><text class="terminal-488239379-r5" x="24.4" y="556.8" textLength="1549.4" clip-path="url(#terminal-488239379-line-22)">{&quot;hits&quot;:[{&quot;path&quot;:&quot;servers/fs/ops.ts&quot;,&quot;line&quot;:59,&quot;text&quot;:&quot;&#160;&#160;//&#160;O_NOFOLLOW:&#160;if&#160;the&#160;final&#160;component&#160;was&#160;swapped&#160;for&#160;a&#160;symlink&#160;after&#160;</text><text class="terminal-488239379-r2" x="1586" y="556.8" textLength="12.2" clip-path="url(#terminal-488239379-line-22)">
+</text><text class="terminal-488239379-r5" x="0" y="581.2" textLength="1207.8" clip-path="url(#terminal-488239379-line-23)">the&quot;},{&quot;path&quot;:&quot;servers/fs/ops.ts&quot;,&quot;line&quot;:63,&quot;text&quot;:&quot;&#160;&#160;&#160;&#160;fh&#160;=&#160;await&#160;open(real,&#160;constants.O_RDONLY&#160;|&#160;</text><text class="terminal-488239379-r2" x="1586" y="581.2" textLength="12.2" clip-path="url(#terminal-488239379-line-23)">
+</text><text class="terminal-488239379-r5" x="0" y="605.6" textLength="927.2" clip-path="url(#terminal-488239379-line-24)">constants.O_NOFOLLOW);&quot;},{&quot;path&quot;:&quot;servers/fs/ops.ts&quot;,&quot;line&quot;:135,&quot;text&quot;:&quot;&#160;&#160;&#160;…</text><text class="terminal-488239379-r2" x="1586" y="605.6" textLength="12.2" clip-path="url(#terminal-488239379-line-24)">
+</text><text class="terminal-488239379-r2" x="1586" y="630" textLength="12.2" clip-path="url(#terminal-488239379-line-25)">
+</text><text class="terminal-488239379-r1" x="0" y="654.4" textLength="122" clip-path="url(#terminal-488239379-line-26)">http-fetch</text><text class="terminal-488239379-r3" x="134.2" y="654.4" textLength="488" clip-path="url(#terminal-488239379-line-26)">(stdio:&#160;node&#160;dist/servers/http/index.js)</text><text class="terminal-488239379-r2" x="622.2" y="654.4" textLength="170.8" clip-path="url(#terminal-488239379-line-26)">&#160;&#160;tools:&#160;fetch</text><text class="terminal-488239379-r2" x="1586" y="654.4" textLength="12.2" clip-path="url(#terminal-488239379-line-26)">
+</text><text class="terminal-488239379-r4" x="0" y="678.8" textLength="85.4" clip-path="url(#terminal-488239379-line-27)">→&#160;fetch</text><text class="terminal-488239379-r2" x="85.4" y="678.8" textLength="390.4" clip-path="url(#terminal-488239379-line-27)">&#160;{&quot;url&quot;:&quot;https://example.com/&quot;}&#160;</text><text class="terminal-488239379-r3" x="475.8" y="678.8" textLength="109.8" clip-path="url(#terminal-488239379-line-27)">1218.3&#160;ms</text><text class="terminal-488239379-r2" x="1586" y="678.8" textLength="12.2" clip-path="url(#terminal-488239379-line-27)">
+</text><text class="terminal-488239379-r5" x="24.4" y="703.2" textLength="1464" clip-path="url(#terminal-488239379-line-28)">{&quot;url&quot;:&quot;https://example.com/&quot;,&quot;finalUrl&quot;:&quot;https://example.com/&quot;,&quot;status&quot;:200,&quot;contentType&quot;:&quot;text/html&quot;,&quot;title&quot;:&quot;Example&#160;</text><text class="terminal-488239379-r2" x="1586" y="703.2" textLength="12.2" clip-path="url(#terminal-488239379-line-28)">
+</text><text class="terminal-488239379-r5" x="0" y="727.6" textLength="1244.4" clip-path="url(#terminal-488239379-line-29)">Domain&quot;,&quot;text&quot;:&quot;#&#160;Example&#160;Domain\n\nThis&#160;domain&#160;is&#160;for&#160;use&#160;in&#160;documentation&#160;examples&#160;without&#160;needing&#160;…</text><text class="terminal-488239379-r2" x="1586" y="727.6" textLength="12.2" clip-path="url(#terminal-488239379-line-29)">
+</text><text class="terminal-488239379-r4" x="0" y="752" textLength="85.4" clip-path="url(#terminal-488239379-line-30)">→&#160;fetch</text><text class="terminal-488239379-r2" x="85.4" y="752" textLength="634.4" clip-path="url(#terminal-488239379-line-30)">&#160;{&quot;url&quot;:&quot;http://169.254.169.254/latest/meta-data/&quot;}&#160;</text><text class="terminal-488239379-r3" x="719.8" y="752" textLength="73.2" clip-path="url(#terminal-488239379-line-30)">8.7&#160;ms</text><text class="terminal-488239379-r2" x="1586" y="752" textLength="12.2" clip-path="url(#terminal-488239379-line-30)">
+</text><text class="terminal-488239379-r6" x="24.4" y="776.4" textLength="1159" clip-path="url(#terminal-488239379-line-31)">isError&#160;{&quot;error&quot;:{&quot;code&quot;:&quot;FORBIDDEN&quot;,&quot;message&quot;:&quot;Blocked&#160;address&#160;169.254.169.254&#160;(link-local)&quot;}}</text><text class="terminal-488239379-r2" x="1586" y="776.4" textLength="12.2" clip-path="url(#terminal-488239379-line-31)">
+</text><text class="terminal-488239379-r4" x="0" y="800.8" textLength="85.4" clip-path="url(#terminal-488239379-line-32)">→&#160;fetch</text><text class="terminal-488239379-r2" x="85.4" y="800.8" textLength="366" clip-path="url(#terminal-488239379-line-32)">&#160;{&quot;url&quot;:&quot;https://evil.test/&quot;}&#160;</text><text class="terminal-488239379-r3" x="451.4" y="800.8" textLength="73.2" clip-path="url(#terminal-488239379-line-32)">7.4&#160;ms</text><text class="terminal-488239379-r2" x="1586" y="800.8" textLength="12.2" clip-path="url(#terminal-488239379-line-32)">
+</text><text class="terminal-488239379-r6" x="24.4" y="825.2" textLength="1012.6" clip-path="url(#terminal-488239379-line-33)">isError&#160;{&quot;error&quot;:{&quot;code&quot;:&quot;FORBIDDEN&quot;,&quot;message&quot;:&quot;Host&#160;not&#160;in&#160;allowlist:&#160;evil.test&quot;}}</text><text class="terminal-488239379-r2" x="1586" y="825.2" textLength="12.2" clip-path="url(#terminal-488239379-line-33)">
+</text><text class="terminal-488239379-r2" x="1586" y="849.6" textLength="12.2" clip-path="url(#terminal-488239379-line-34)">
+</text>
+    </g>
+    </g>
+</svg>
